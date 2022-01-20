@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98231324500",
+    "project_id": "flutter-nang-cao",
+    "storage_bucket": "flutter-nang-cao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98231324500:android:2fb7c3fe082546b7fdc2c1",
+        "android_client_info": {
+          "package_name": "com.example.flutternangcao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98231324500-9nstddni5rpc3knbd53oe1bnpmaa541u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwRf8dLeXbGn38hSx0PmSugZ6Mqrq9RfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98231324500-9nstddni5rpc3knbd53oe1bnpmaa541u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
